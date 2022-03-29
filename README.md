@@ -1,6 +1,6 @@
 # flutter_ui_basic
 
-A new Flutter project.
+This repository meant to learn basic UI design with Flutter SDK for Mobile Application.
 
 ## Getting Started
 
