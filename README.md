@@ -6,7 +6,10 @@ This repository meant to learn basic UI design with Flutter SDK for Mobile Appli
 
 ![Screen 1](https://user-images.githubusercontent.com/16952129/160556119-cb4ae309-9712-4727-aaea-ea47709bc56a.png)
 
+###### Home Screen Preview
 ![Home](https://user-images.githubusercontent.com/16952129/160765568-6f88a9f4-05a1-4a20-857a-1c8964cf4f24.png)
+
+###### Message Screen Preview
 ![Message](https://user-images.githubusercontent.com/16952129/160765558-597dd980-1693-4cd7-ad3a-c75fb4e138be.png)
 
 
