@@ -3,6 +3,7 @@ import 'dart:js';
 import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_basic/new-ui/pages/homescreen.dart';
+import 'package:flutter_ui_basic/new-ui/pages/messages.dart';
 
 // import 'basic-ui/homepage.dart';
 
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Poppins'
       ),
       // home: const HomePage(),
-      home: const HomeScreen(),
+      home: const Messages(),
     );
   }
 }
